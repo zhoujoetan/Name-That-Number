@@ -1,0 +1,11 @@
+Write a program that:
+
+Reads in lines from the keyboard, replaces any integers in each line with their English word equivalents, and displays the result. For example, if the input is
+
+Today is November 11, 2011.
+
+then the output should be
+
+Today is November eleven, two thousand eleven.
+
+The program is to read in text from the keyboard. It then prints out the same text, except that it turns every integer number between 0 and 9999, inclusive, into words. For the purposes of this program, an "integer" is any sequence of one or more digits.
